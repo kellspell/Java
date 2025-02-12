@@ -3,6 +3,8 @@ public class Main {
 
         // This is my first Java program
         System.out.print("I love Pizza!\n");
-        System.out.print("Its really Good!");
+        System.out.print("Its really Good!\n");
+        System.out.println("Buy me a Pizza ");
+        System.out.println();
     }
 }
